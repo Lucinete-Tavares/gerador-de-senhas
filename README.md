@@ -5,10 +5,6 @@ Bem-vindo ao Gerador de Senhas em Python! Este script simples, que permite gerar
 ## Como Usar
 Clone o repositório:
 
-```bash
-git clone https://github.com/lucinete-tavares/projetos/gerador-de-senhas-python.git
-cd gerador-de-senhas-python
-
 Siga as instruções para personalizar sua senha.
 Opções de Personalização
 Você pode escolher o comprimento da senha.
