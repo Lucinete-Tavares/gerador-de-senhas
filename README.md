@@ -3,8 +3,7 @@
 Bem-vindo ao Gerador de Senhas em Python! Este script simples, que permite gerar senhas aleatórias com diferentes critérios de complexidade.
 
 ## Como Usar
-
-1. Clone o repositório:
+Clone o repositório:
 
 ```bash
 git clone https://github.com/lucinete-tavares/projetos/gerador-de-senhas-python.git
