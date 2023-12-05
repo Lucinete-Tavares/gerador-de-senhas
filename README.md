@@ -1,6 +1,6 @@
 # Gerador de Senhas em Python
 
-Bem-vindo ao Gerador de Senhas em Python! Este script simples permite gerar senhas aleatórias com diferentes critérios de complexidade.
+Bem-vindo ao Gerador de Senhas em Python! Este script simples, que permite gerar senhas aleatórias com diferentes critérios de complexidade.
 
 ## Como Usar
 
